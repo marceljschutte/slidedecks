@@ -15,7 +15,7 @@ Slidedecks of my previous talks
 |20240607|Sogeti Utrecht - Java Friday| Building the Future | [ENG](https://github.com/marceljschutte/slidedecks/blob/main/20240607-building-the-future-AI-infused-software-architecture.pdf) - [PROMPTS](https://github.com/marceljschutte/slidedecks/blob/main/20240522-building-the-future-AI-infused-software-architecture-demo-prompts.pdf)|
 |20240607|Sogeti Utrecht - Frontend Lightning Talks | C4 modelling - Applying the C4 model on Frontends | [ENG](https://github.com/marceljschutte/slidedecks/blob/main/20240918-FrontendLightningTalks-C4-frontend.pdf) |
 |20241009|Devoxx BE - Antwerpen| Architecting for Tomorrow| [ENG](https://github.com/marceljschutte/slidedecks/blob/main/20241009-DevoxxBE-Architecting-for-Tomorrow.pdf)|
-|20241107|JFall - Ede| Architecting for Tomorrow| [ENG]() - slides will be added later today|
+|20241107|JFall - Ede| Architecting for Tomorrow| [ENG](https://github.com/marceljschutte/slidedecks/blob/main/20241107-JFALL-pragarch-ENG.pdf)|
 
 
 
